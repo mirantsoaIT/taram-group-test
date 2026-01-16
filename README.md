@@ -28,7 +28,7 @@ Exigences de base
 
     Reproduction pixel-perfect de la maquette fournie
 
-    Design entièrement responsive (mobile-first)
+    Design entièrement responsive (web - mobile)
 
     Intégration des assets fournis (logo, icônes, images)
 
